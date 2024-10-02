@@ -208,7 +208,7 @@ HTML/CSS Files
 
 <br>
 
-### MySQL Default charset issues:
+### `MySQL` Default charset issues:
 
 <br>
 
@@ -222,7 +222,7 @@ HTML/CSS Files
 <br>
 <br>
 
-### Install Flask:
+### Install `Flask`:
 
 <br>
 

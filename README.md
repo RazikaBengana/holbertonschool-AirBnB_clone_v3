@@ -248,7 +248,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 <br>
 <br>
 
-### Install Flask:
+### Install `Flask`:
 
 <br>
 
