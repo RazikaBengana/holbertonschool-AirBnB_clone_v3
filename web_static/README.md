@@ -23,14 +23,14 @@
 
 
 <h3 align="center">
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#eye-about">About</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#hammer_and_wrench-tasks">Tasks</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#memo-learning-objectives">Learning Objectives</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#computer-requirements">Requirements</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#keyboard-more-info">More Info</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#mag_right-resources">Resources</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#bust_in_silhouette-authors">Authors</a> •
-<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone/tree/main/web_static#octocat-license">License</a>
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#eye-about">About</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#hammer_and_wrench-tasks">Tasks</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#memo-learning-objectives">Learning Objectives</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#computer-requirements">Requirements</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#keyboard-more-info">More Info</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#mag_right-resources">Resources</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#bust_in_silhouette-authors">Authors</a> •
+<a href="https://github.com/RazikaBengana/holbertonschool-AirBnB_clone_v3/tree/main/web_static#octocat-license">License</a>
 </h3>
 
 ---
