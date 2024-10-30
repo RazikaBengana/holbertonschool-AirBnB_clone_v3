@@ -101,7 +101,7 @@ Through hands-on development of core components, we gain practical experience in
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -212,7 +212,7 @@ HTML/CSS Files
 
 <br>
 
-- If you get Flask errors after executing the `curl ...` commands, it might be because of the `DEFAULT CHARSET`. <br>
+- If you get `Flask` errors after executing the `curl ...` commands, it might be because of the `DEFAULT CHARSET`. <br>
 
 - If it’s `DEFAULT CHARSET=latam1`, you might want to change it to `DEFAULT CHARSET=utf8mb4`:
 
@@ -226,7 +226,7 @@ HTML/CSS Files
 
 <br>
 
-```
+```yaml
 $ pip3 install Flask
 ```
 
@@ -250,11 +250,11 @@ $ pip3 install Flask
 :pushpin: **Note**:
 <br>
 <br>
-Try setting FLASK configuration `debug` to `False` iIf you get the following error when running the checker:
+Try setting `FLASK` configuration `debug` to `False` iIf you get the following error when running the checker:
 
 <br>
 
-```
+```yaml
 - [Got]
 rpc error: code = 2 desc = oci runtime error: exec failed: container_linux.go:290: starting container process caused "process_linux.go:111: decoding init error from pipe caused \"read parent: connection reset by peer\""
 
@@ -314,7 +314,7 @@ rpc error: code = 2 desc = oci runtime error: exec failed: container_linux.go:29
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>

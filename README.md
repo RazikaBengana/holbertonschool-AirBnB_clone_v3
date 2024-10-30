@@ -110,7 +110,7 @@ Through hands-on development of core components, we gain practical experience in
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -252,7 +252,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 
 <br>
 
-```
+```yaml
 $ pip3 install Flask
 ```
 
@@ -308,7 +308,7 @@ $ pip3 install Flask
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
